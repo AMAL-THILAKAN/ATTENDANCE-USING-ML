@@ -6,7 +6,8 @@ Smart Attendance system using face recongnition using Machine Learning technique
 # Implementation
 
 # Referance 
-
+ - [1](Face Recognition based Attendance System using Machine Learning)
+ 
 # 💫️ Need to do
 
 | Tasks | Status |
@@ -20,6 +21,6 @@ Smart Attendance system using face recongnition using Machine Learning technique
 | Submit initial Report ASAP |  |
 
 <!-- Give Hyperlinks -->
- 
+ [1]:./resource/IJEDR1903093.pdf
  
  
